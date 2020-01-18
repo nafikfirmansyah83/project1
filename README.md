@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"><meta name=format-detection content="telephone=no"><link rel=icon href=https://m.mobilelegends.com/static/images/favicon.ico type=image/x-icon><meta property=fb:app_id content=101270200490450><meta charset=utf-8><script>window.PointerEvent = undefined</script><title>Mobile Legends: Bang Bang</title><style>html,body{
+<html><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"><meta name=format-detection content="telephone=no"><link rel=icon href=https://m.mobilelegends.com/static/images/favicon.ico type=image/x-icon><meta property=fb:app_id content=101270200490450><meta charset=utf-8><script>window.PointerEvent = undefined</script><title>Mobile Legends: Bang Bang</title><style>html,body{
         min-height: 100vh;
         background: #130F26;
       }
